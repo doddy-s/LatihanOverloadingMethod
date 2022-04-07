@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T9eCBbm01sKEZpVHjcCIYnaHZpAu5Bkfb9k+7woAZGOJtDNR5mbPjtN22jF5/nkJMnoKyJug6CSpZuzqnWa2pA==",
+  "success": true,
+  "projectFilePath": "/home/doddy-s/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/Pertemuan5/LatihanOverloadingMethod/LatihanOverloadingMethod.csproj",
+  "expectedPackageFiles": [
+    "/home/doddy-s/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

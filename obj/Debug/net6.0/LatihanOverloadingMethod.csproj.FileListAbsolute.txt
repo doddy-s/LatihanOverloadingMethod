@@ -1,0 +1,15 @@
+/home/doddy-s/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/Pertemuan5/LatihanOverloadingMethod/bin/Debug/net6.0/LatihanOverloadingMethod
+/home/doddy-s/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/Pertemuan5/LatihanOverloadingMethod/bin/Debug/net6.0/LatihanOverloadingMethod.deps.json
+/home/doddy-s/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/Pertemuan5/LatihanOverloadingMethod/bin/Debug/net6.0/LatihanOverloadingMethod.runtimeconfig.json
+/home/doddy-s/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/Pertemuan5/LatihanOverloadingMethod/bin/Debug/net6.0/LatihanOverloadingMethod.dll
+/home/doddy-s/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/Pertemuan5/LatihanOverloadingMethod/bin/Debug/net6.0/ref/LatihanOverloadingMethod.dll
+/home/doddy-s/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/Pertemuan5/LatihanOverloadingMethod/bin/Debug/net6.0/LatihanOverloadingMethod.pdb
+/home/doddy-s/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/Pertemuan5/LatihanOverloadingMethod/obj/Debug/net6.0/LatihanOverloadingMethod.csproj.AssemblyReference.cache
+/home/doddy-s/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/Pertemuan5/LatihanOverloadingMethod/obj/Debug/net6.0/LatihanOverloadingMethod.GeneratedMSBuildEditorConfig.editorconfig
+/home/doddy-s/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/Pertemuan5/LatihanOverloadingMethod/obj/Debug/net6.0/LatihanOverloadingMethod.AssemblyInfoInputs.cache
+/home/doddy-s/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/Pertemuan5/LatihanOverloadingMethod/obj/Debug/net6.0/LatihanOverloadingMethod.AssemblyInfo.cs
+/home/doddy-s/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/Pertemuan5/LatihanOverloadingMethod/obj/Debug/net6.0/LatihanOverloadingMethod.csproj.CoreCompileInputs.cache
+/home/doddy-s/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/Pertemuan5/LatihanOverloadingMethod/obj/Debug/net6.0/LatihanOverloadingMethod.dll
+/home/doddy-s/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/Pertemuan5/LatihanOverloadingMethod/obj/Debug/net6.0/ref/LatihanOverloadingMethod.dll
+/home/doddy-s/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/Pertemuan5/LatihanOverloadingMethod/obj/Debug/net6.0/LatihanOverloadingMethod.pdb
+/home/doddy-s/Documents/Kuliah/Mata Kuliah/Semester 2/ST021 - PEMROGRAMAN/Pertemuan5/LatihanOverloadingMethod/obj/Debug/net6.0/LatihanOverloadingMethod.genruntimeconfig.cache
